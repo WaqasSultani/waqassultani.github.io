@@ -6,15 +6,22 @@ experiences:
   category: "work"
 
 - place: "University of Central Florida"
-  time: "20011-2017"
+  time: "2011-2017"
   title: "PhD. student"
-  subtitle: "Center for Research in Computer Vision.ISE: Department of Computer and Information Science and Engineering <br/> Fulbright Scholarship <br/>"
+  subtitle: "Center for Research in Computer Vision <br/> Advisor: Dr. Mubarak Shah <br/>"
   category: "school"
 
-- place: "Fulbright Scholar"
-  time: "2007-2014"
-  title: "PhD. student"
-  subtitle: " "
+- place: "Xerox"
+  time: "2014-Summer"
+  title: "Computer Vision Research Intern"
+  subtitle: " Webster, New York"
+  category: "school"
+
+
+- place: "Seoul National University,"
+  time: "2008-2010"
+  title: "MS student"
+  subtitle: "Perceptional and Intelligence lab <br/> Advisor: Dr. Jin Young Choi <br/>"
   category: "school"
 
 - place: "LUMS"
