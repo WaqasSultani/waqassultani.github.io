@@ -5,7 +5,7 @@ experiences:
   subtitle: "Intelligent Machines Lab"
   category: "work"
 
-- place: "University of Central Florida"
+- place: "University of Central Florida, USA"
   time: "2011-2017"
   title: "PhD. student"
   subtitle: "Center for Research in Computer Vision <br/> Advisor: Dr. Mubarak Shah <br/>"
@@ -18,32 +18,21 @@ experiences:
   category: "school"
 
 
-- place: "Seoul National University,"
+- place: "Seoul National University, South Korea"
   time: "2008-2010"
   title: "MS student"
   subtitle: "Perceptional and Intelligence lab <br/> Advisor: Dr. Jin Young Choi <br/>"
   category: "school"
 
-- place: "LUMS"
+- place: "University of Engineering and Technology, Taxila, Pakistan"
   time: "2003 - 2006"
-  title: "M.Sc. Student"
-  subtitle: "Department of Computer Sicence <br/> Dean’s Honor List<br/>"
+  title: "BS Student"
+  subtitle: "Major: Electronics <br/> Advisor: Dr. Muhammad Amin <br/>"
   category: "school"
 
-- place: "Punjab University"
+ 
+  place: "ICB,G-6/3, Islamabad"
   time: "2000 - 2002"
-  title: "M.Sc. Student"
-  subtitle: "Punjab University College of Information Technology <br/> Gold Medalist <br/> Merit Scholarship"
-  category: "school"
-
-- place: "Punjab University"
-  time: "1999 - 2000"
-  title: "P.G.D Student"
-  subtitle: "Department of Comptuer Sicence <br/> First Position in Examination <br/>"
-  category: "school"
-
-- place: "Forman Christian College"
-  time: "1997 - 1999"
   title: "F.Sc. Student"
-  subtitle: "Punjab University"
+  subtitle: "Fedral Board"
   category: "school"
