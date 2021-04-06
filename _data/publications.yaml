@@ -1,32 +1,24 @@
 papers:
 
-  - title: "Leveraging Orientation for Weakly Supervised Object Detection with Application to Firearm Localization"
-    authors: "Javed Iqbal, Muhammad Akhtar Munir, Arif Mahmood, Afsheed Rafaqat Ali, and Mohsen Ali"
-    venue: "Neurocomputing, 2021"
-    paper_pdf: "https://arxiv.org/pdf/1904.10032"
-    page: "http://im.itu.edu.pk/orientation-aware-firearms-detection/"
-    code: "https://github.com/makhtar17004/orientation-aware-firearm-detection"
-    dataset: "http://im.itu.edu.pk/orientation-aware-firearms-detection/"
-    year: "2021"
-    selected: y 
-
-  - title: “Optimal school site selection in Urban areas using deep neural networks"
-    authors: “Nimra Zaheer, Saeed-Ul Hassan, Mohsen Ali, Mudassir Shabbir”
-    venue: “Journal of Ambient Intelligence and Humanized Computing, 2021”
+ 
+  - title: “Dogfight: Detecting Drones from Drones Videos"
+    authors: “Muhammad Waseem Ashraf, Waqas Sultani, Mubarak Shah”
+    venue: “IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2021”
     year: 2021
-    paper_pdf: “https://link.springer.com/article/10.1007%2Fs12652-021-02903-9”
+    paper_pdf: “https://arxiv.org/abs/2103.17242”
     selected: n
 
-  - title: "Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation"
-    authors: "N. Subhani, Mohsen Ali"
-    venue: "European Conference on Computer Vision, 2020."
-    paper_pdf: "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670290.pdf"
-    year: "2020"
-    selected: y
+  - title: "Human action recognition in drone videos using a few aerial training examples"
+    authors: "Waqas Sultani, and Mubarak Shah"
+    venue: "Journal of Computer Vision and Image Understanding (CVIU), 2021"
+    paper_pdf: "https://arxiv.org/pdf/1910.10027.pdf"
+    page: "http://im.itu.edu.pk/human-action-recognition-in-drone-videos-using-a-few-aerial-training-examples/" 
+    year: "2021"
+    selected: y 
   
   - title: "Real world Anomaly Detection in Surveillance Videos"
     authors: "Waqas Sultani, Chen Chen, and Mubarak Shah"
-    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2018."
+    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2018"
     paper_pdf: "https://arxiv.org/pdf/1801.04264.pdf"
     page: "https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/" 
     dataset: "https://webpages.uncc.edu/cchen62/dataset.html"
