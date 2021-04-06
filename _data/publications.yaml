@@ -6,7 +6,7 @@ papers:
     venue: “IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2021”
     year: 2021
     paper_pdf: “https://arxiv.org/abs/2103.17242”
-    selected: n
+    selected: y
 
   - title: "Human action recognition in drone videos using a few aerial training examples"
     authors: "Waqas Sultani, and Mubarak Shah"
