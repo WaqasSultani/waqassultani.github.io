@@ -34,13 +34,11 @@ papers:
     year: "2020"
     selected: y
    
-  - title: "MLSL: Multi-Level Self-Supervised Learning for Domain Adaptation with Spatially Independent and Semantically Consistent Labeling"
-    authors: "Javed Iqbal, Mohsen Ali"
-    venue: "The IEEE Winter Conference on Applications of Computer Vision, 2020."
-    paper_pdf: "https://openaccess.thecvf.com/content_WACV_2020/papers/Iqbal_MLSL_Multi-Level_Self-Supervised_Learning_for_Domain_Adaptation_with_Spatially_Independent_WACV_2020_paper.pdf"
-    page: "http://im.itu.edu.pk/uda-ss/" 
-    code: "https://github.com/engrjavediqbal/MLSL"
-    year: "2020"
+  - title: "Unsupervised Action Proposal Ranking through Proposal Recombination"
+    authors: "Waqas Sultani, Dong Zhang, and Mubarak Shah"
+    venue: "Journal of Computer Vision and Image Understanding (CVIU), 2017"
+    paper_pdf: "https://arxiv.org/pdf/1704.00758.pdf"
+    year: "2017"
     selected: y
 
   - title: "Automatic Pavement Object Detection using Superpixel Segmentation Combined with Conditional Random Field"
