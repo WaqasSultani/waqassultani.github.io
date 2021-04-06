@@ -43,13 +43,21 @@ papers:
     year: "2020"
     selected: y
 
-  - title: "Localizing Firearm Carriers By Identifying Human-Object Pairs"
-    authors: Abdul Basit, Muhammad Akhtar Munir, Mohsen Ali, Naoufel Werghi, Arif Mahmood
-    venue: "IEEE International Conference on Image Processing."
-    paper_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9190886
-    page: "http://im.itu.edu.pk/localizing-firearm-carriers/"
-    year: "2020"
-    selected: n
+  - title: "Automatic Pavement Object Detection using Superpixel Segmentation Combined with Conditional Random Field"
+    authors: Waqas Sultani, Soroush Mokhtari, and Hae-Bum Yun
+    venue: "IEEE Transaction on Intelligent Transportation Systems (ITS), 2017"
+    paper_pdf: http://ieeexplore.ieee.org/abstract/document/8025634/
+    year: "2017"
+    selected: y
+    
+    
+  - title: "What if we do not have multiple videos of the same action? - Video Action Localization Using Web Images"
+    authors: "Waqas Sultani and Mubarak Shah"
+    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2016."
+    paper_pdf: "https://www.crcv.ucf.edu/projects/videolocalization_images/CVPR16_Waqas_AL.pdf"
+    page: "https://www.crcv.ucf.edu/projects/videolocalization_images/"
+    year: "2016"
+    selected: y
 
   - title: "Human Action Recognition across Datasets by Foreground Focused Histogram Decomposition"
     authors: "Waqas Sultani and Imran Saleemi"
