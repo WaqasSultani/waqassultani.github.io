@@ -24,14 +24,14 @@ papers:
     year: "2020"
     selected: y
   
-  - title: "Weakly-supervised domain adaptation for built-up region segmentation in aerial and satellite imagery"
-    authors: "Javed Iqbal, Mohsen Ali"
-    venue: "ISPRS Journal of Photogrammetry and Remote Sensing, 2020."
-    paper_pdf: "https://arxiv.org/pdf/2007.02277.pdf"
-    page: "http://im.itu.edu.pk/wan/" 
-    dataset: "https://drive.google.com/file/d/1cYdc2-WWuHwv3tMvjpxRVpBRh5pZQbza/view?usp=sharing"
-    code: "https://github.com/engrjavediqbal/wan"
-    year: "2020"
+  - title: "Real world Anomaly Detection in Surveillance Videos"
+    authors: "Waqas Sultani, Chen Chen, and Mubarak Shah"
+    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2018."
+    paper_pdf: "https://arxiv.org/pdf/1801.04264.pdf"
+    page: "https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/" 
+    dataset: "https://webpages.uncc.edu/cchen62/dataset.html"
+    code: "https://github.com/WaqasSultani/AnomalyDetectionCVPR2018"
+    year: "2018"
     selected: y
    
   - title: "Automatic Action Localization in Weakly Labeled Videos"
