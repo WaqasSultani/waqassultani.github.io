@@ -34,6 +34,14 @@ papers:
     year: "2020"
     selected: y
    
+   - title: "Automatic Action Annotation in Weakly Labeled Videos"
+    authors: "Waqas Sultani, and Mubarak Shah"
+    venue: "Journal of Computer Vision and Image Understanding (CVIU), 2017"
+    paper_pdf: "https://arxiv.org/pdf/1605.08125.pdf"
+    year: "2017"
+    selected: y  
+   
+   
   - title: "Unsupervised Action Proposal Ranking through Proposal Recombination"
     authors: "Waqas Sultani, Dong Zhang, and Mubarak Shah"
     venue: "Journal of Computer Vision and Image Understanding (CVIU), 2017"
