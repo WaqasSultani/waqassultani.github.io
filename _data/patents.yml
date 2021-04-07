@@ -1,27 +1,19 @@
 papers:
 
  
-  - title: "Dogfight Detecting Drones from Drones Videos"
-    authors: "Muhammad Waseem Ashraf, Waqas Sultani, Mubarak Shah"
-    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2021"
-    year: "2021"
-    paper_pdf: "https://arxiv.org/abs/2103.17242/"
+  - title: "System and Method for Seat Occupancy Detection from Ceiling Mounted Camera using Robust Adaptive Threshold Criteria"
+    authors: "Robert P. Loce, Waqas Sultani, Hao Wu, and Beilei Xu"
+    venue: "US Patent: US9378421 B2"
+    paper_pdf: "https://patents.google.com/patent/US9378421"
     selected: y
 
-  - title: "Human Action Recognition in Drone Videos using a Few Aerial Training Examples"
-    authors: "Waqas Sultani, and Mubarak Shah"
-    venue: "Journal of Computer Vision and Image Understanding (CVIU), 2021"
-    paper_pdf: "https://arxiv.org/pdf/1910.10027.pdf"
-    page: "http://im.itu.edu.pk/human-action-recognition-in-drone-videos-using-a-few-aerial-training-examples/" 
-    year: "2021"
+  - title: "System and Method for Detecting Settle Down Time using Computer Vision Techniques"
+    authors: "Robert P. Loce, Waqas Sultani, Hao Wu, Beilei Xu, Thomas F. Wade, Mary Ann Sprague, Patricia Swenton-Wall, Megan Clar, Eric Harte"
+    venue: "US Patent: US9384396 B2"
+    paper_pdf: "https://patents.google.com/patent/US9384396"
     selected: y 
     
-  - title: "Single-Shot Retinal Image Enhancement Using Deep Image Priors"
-    authors: "Adnan Qayyum, Waqas Sultani, Fahad Shamshad, Junaid Qadir, and Rashid Tufail"
-    venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020"
-    paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-59722-1_61"
-    year: "2020"
-    selected: y     
+    
     
     
  
