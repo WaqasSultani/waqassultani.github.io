@@ -8,13 +8,38 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2103.17242/"
     selected: y
 
-  - title: "Human action recognition in drone videos using a few aerial training examples"
+  - title: "Human Action Recognition in Drone Videos using a Few Aerial Training Examples"
     authors: "Waqas Sultani, and Mubarak Shah"
     venue: "Journal of Computer Vision and Image Understanding (CVIU), 2021"
     paper_pdf: "https://arxiv.org/pdf/1910.10027.pdf"
     page: "http://im.itu.edu.pk/human-action-recognition-in-drone-videos-using-a-few-aerial-training-examples/" 
     year: "2021"
     selected: y 
+    
+  - title: "Single-Shot Retinal Image Enhancement Using Deep Image Priors"
+    authors: "Adnan Qayyum, Waqas Sultani, Fahad Shamshad, Junaid Qadir, and Rashid Tufail"
+    venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020"
+    paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-59722-1_61"
+    year: "2020"
+    selected: y     
+    
+    
+  - title: "Destruction from Sky: Weakly Supervised Approach for Destruction Detection in Satellite Imagery"
+    authors: "Muhammad Usman Ali, Waqas Sultani, Mohsen Ali"
+    venue: "ISPRS Journal of Photogrammetry and Remote Sensing (JPRS) 2020"
+    paper_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0924271620300368"
+    year: "2020"
+    selected: y   
+    
+ 
+  - title: "Deep Built-Structure Counting in Satellite Imagery using Attention Based Re-Weighting"
+    authors: "Anza Shakeel, Waqas Sultani and Mohsen Ali,"
+    venue: "ISPRS Journal of Photogrammetry and Remote Sensing (JPRS) 2019"
+    paper_pdf: "https://arxiv.org/pdf/1904.00674.pdf"
+    page: "http://im.itu.edu.pk/deepcount/" 
+    year: "2019"
+    selected: y    
+    
   
   - title: "Real world Anomaly Detection in Surveillance Videos"
     authors: "Waqas Sultani, Chen Chen, and Mubarak Shah"
