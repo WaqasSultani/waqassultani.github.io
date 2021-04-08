@@ -4,10 +4,9 @@ projects:
     thumbnail: "assets/projects/2020_UDA/MLSL-fig1.png"
     url: "http://im.itu.edu.pk/weakly-supervised-domain-adaptation-for-built-up-region-segmentation-in-aerial-and-satellite-imagery/"
     selected: y
-  - title: "Affective Computing"
+  - title: "UAV Visual Analysis"
     subtitle: ""
-    thumbnail: "assets/projects/2017_Affective/affective.png"
-    url: "http://im.itu.edu.pk/affective-computing/"
+    thumbnail: "assets/projects/2017_Affective/Screenshot 2021-04-08 at 11.13.39 PM.png"
     selected: y
 
   - title: "Economics From Afar"
