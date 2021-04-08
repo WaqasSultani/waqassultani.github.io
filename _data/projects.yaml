@@ -1,16 +1,20 @@
 projects:
   - title: "Malaria Detection"
-    subtitle: "Self Supervised Learnign for the Semantic Segmentation"
+    subtitle: "Low-cost deep learning solution to real-time detection of malaria"
     thumbnail: "assets/projects/2020_UDA/MLSL-fig1.png"
-    url: "http://im.itu.edu.pk/weakly-supervised-domain-adaptation-for-built-up-region-segmentation-in-aerial-and-satellite-imagery/"
     selected: y
+
   - title: "UAV Visual Analysis"
     subtitle: "Action Recognition through Drones and Drone Detection"
     thumbnail: "assets/projects/2017_Affective/Screenshot 2021-04-08 at 11.13.39 PM.png"
     selected: y
 
-  - title: "Economics From Afar"
-    subtitle: "Using Deep Learning to Detecting Slums and Understanding Poverty"
+  - title: "Out of Distribuition Detection"
+    subtitle: "Using Deep Learning to Detect OOD samples in medical images"
     thumbnail: "assets/projects/2018_RS/Cholistan.jpg"
-    url: "http://im.itu.edu.pk/satellite-imagery-web-page/"
+    selected: y
+    
+  - title: "Anomaly Detection in Videos and Images"
+    subtitle: "Weakly Supervised Anomaly Detection"
+    thumbnail: "assets/projects/2018_RS/Cholistan.jpg"
     selected: y
