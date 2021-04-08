@@ -1,5 +1,5 @@
 projects:
-  - title: "Domain Adaptation"
+  - title: "Malaria Detection"
     subtitle: "Self Supervised Learnign for the Semantic Segmentation"
     thumbnail: "assets/projects/2020_UDA/MLSL-fig1.png"
     url: "http://im.itu.edu.pk/weakly-supervised-domain-adaptation-for-built-up-region-segmentation-in-aerial-and-satellite-imagery/"
