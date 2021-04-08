@@ -5,7 +5,7 @@ projects:
     url: "http://im.itu.edu.pk/weakly-supervised-domain-adaptation-for-built-up-region-segmentation-in-aerial-and-satellite-imagery/"
     selected: y
   - title: "UAV Visual Analysis"
-    subtitle: ""
+    subtitle: "Action Recognition through Drones and Drone Detection"
     thumbnail: "assets/projects/2017_Affective/Screenshot 2021-04-08 at 11.13.39 PM.png"
     selected: y
 
