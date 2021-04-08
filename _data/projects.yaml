@@ -1,7 +1,7 @@
 projects:
   - title: "Malaria Detection"
     subtitle: "Low-cost deep learning solution to real-time detection of malaria"
-    thumbnail: "assets/projects/2020_UDA/MLSL-fig1.png"
+    thumbnail: "assets/projects/2020_UDA/Screenshot 2021-04-08 at 11.53.24 PM"
     selected: y
 
   - title: "UAV Visual Analysis"
@@ -11,7 +11,7 @@ projects:
 
   - title: "Out of Distribuition Detection"
     subtitle: "Using Deep Learning to Detect OOD samples in medical images"
-    thumbnail: "assets/projects/2018_RS/Cholistan.jpg"
+    thumbnail: "assets/projects/2018_RS/Screenshot 2021-04-08 at 11.53.24 PM"
     selected: y
     
   - title: "Anomaly Detection in Videos and Images"
