@@ -1,12 +1,12 @@
 projects:
   - title: "Malaria Detection"
     subtitle: "Low-cost deep learning solution to real-time detection of malaria"
-    thumbnail: "assets/projects/2020_UDA/Screenshot 2021-04-08 at 11.53.24 PM.png"
+    thumbnail: "assets/projects/MalariaProject.png"
     selected: y
 
   - title: "UAV Visual Analysis"
     subtitle: "Action Recognition through Drones and Drone Detection"
-    thumbnail: "assets/projects/2017_Affective/Screenshot 2021-04-08 at 11.13.39 PM.png"
+    thumbnail: "assets/projects/UAV_Analysis.png"
     selected: y
 
   - title: "Out of Distribuition Detection"
@@ -16,5 +16,5 @@ projects:
     
   - title: "Anomaly Detection in Videos and Images"
     subtitle: "Weakly Supervised Anomaly Detection"
-    thumbnail: "assets/projects/2018_RS/Cholistan.jpg"
+    thumbnail: "assets/projects/AnomalyDetection.jpg"
     selected: y
