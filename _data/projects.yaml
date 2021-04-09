@@ -1,7 +1,7 @@
 projects:
   - title: "Malaria Detection"
     subtitle: "Low-cost deep learning solution to real-time detection of malaria"
-    thumbnail: "assets/projects/2020_UDA/Screenshot 2021-04-08 at 11.53.24 PM"
+    thumbnail: "assets/projects/2020_UDA/Screenshot 2021-04-08 at 11.53.24 PM.png"
     selected: y
 
   - title: "UAV Visual Analysis"
