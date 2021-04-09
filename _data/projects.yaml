@@ -11,5 +11,5 @@ projects:
     
   - title: "Anomaly Detection in Videos and Images"
     subtitle: "Weakly Supervised Anomaly Detection"
-    thumbnail: "assets/projects/AnomalyDetection.jpg"
+    thumbnail: "assets/projects/AnomalyDetection.png"
     selected: y
