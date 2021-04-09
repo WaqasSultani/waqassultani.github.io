@@ -8,11 +8,6 @@ projects:
     subtitle: "Action Recognition through Drones and Drone Detection"
     thumbnail: "assets/projects/UAV_Analysis.png"
     selected: y
-
-  - title: "Out of Distribuition Detection"
-    subtitle: "Using Deep Learning to Detect OOD samples in medical images"
-    thumbnail: "assets/projects/2018_RS/Screenshot 2021-04-08 at 11.53.24 PM"
-    selected: y
     
   - title: "Anomaly Detection in Videos and Images"
     subtitle: "Weakly Supervised Anomaly Detection"
