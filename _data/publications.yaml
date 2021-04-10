@@ -16,6 +16,14 @@ papers:
     year: "2021"
     selected: y 
     
+    
+   - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
+    authors: "Nadeem Yousaf, Sarfaraz Hussein, and Waqas Sultani"
+    venue: "Journal of Computer in Biology and Medicine (CBM), 2021"
+    paper_pdf: "https://arxiv.org/pdf/1910.10027.pdf"
+    year: "2021"
+    selected: n 
+    
   - title: "Single-Shot Retinal Image Enhancement Using Deep Image Priors"
     authors: "Adnan Qayyum, Waqas Sultani, Fahad Shamshad, Junaid Qadir, and Rashid Tufail"
     venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020"
