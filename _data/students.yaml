@@ -1,0 +1,106 @@
+papers:
+
+ 
+  - title: "Dogfight Detecting Drones from Drones Videos"
+    authors: "Muhammad Waseem Ashraf, Waqas Sultani, Mubarak Shah"
+    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2021"
+    year: "2021"
+    paper_pdf: "https://arxiv.org/abs/2103.17242/"
+    selected: y
+
+  - title: "Human Action Recognition in Drone Videos using a Few Aerial Training Examples"
+    authors: "Waqas Sultani, and Mubarak Shah"
+    venue: "Journal of Computer Vision and Image Understanding (CVIU), 2021"
+    paper_pdf: "https://arxiv.org/pdf/1910.10027.pdf"
+    page: "http://im.itu.edu.pk/human-action-recognition-in-drone-videos-using-a-few-aerial-training-examples/" 
+    year: "2021"
+    selected: y 
+    
+    
+   - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
+    authors: "Nadeem Yousaf, Sarfaraz Hussein, and Waqas Sultani"
+    venue: "Journal of Computer in Biology and Medicine (CBM), 2021"
+    paper_pdf: "https://arxiv.org/pdf/1910.10027.pdf"
+    year: "2021"
+    selected: n 
+    
+  - title: "Single-Shot Retinal Image Enhancement Using Deep Image Priors"
+    authors: "Adnan Qayyum, Waqas Sultani, Fahad Shamshad, Junaid Qadir, and Rashid Tufail"
+    venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020"
+    paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-59722-1_61"
+    year: "2020"
+    selected: y     
+    
+    
+  - title: "Destruction from Sky: Weakly Supervised Approach for Destruction Detection in Satellite Imagery"
+    authors: "Muhammad Usman Ali, Waqas Sultani, Mohsen Ali"
+    venue: "ISPRS Journal of Photogrammetry and Remote Sensing (JPRS) 2020"
+    paper_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0924271620300368"
+    year: "2020"
+    selected: y   
+    
+ 
+  - title: "Deep Built-Structure Counting in Satellite Imagery using Attention Based Re-Weighting"
+    authors: "Anza Shakeel, Waqas Sultani and Mohsen Ali,"
+    venue: "ISPRS Journal of Photogrammetry and Remote Sensing (JPRS) 2019"
+    paper_pdf: "https://arxiv.org/pdf/1904.00674.pdf"
+    page: "http://im.itu.edu.pk/deepcount/" 
+    year: "2019"
+    selected: y    
+    
+  
+  - title: "Real world Anomaly Detection in Surveillance Videos"
+    authors: "Waqas Sultani, Chen Chen, and Mubarak Shah"
+    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2018"
+    paper_pdf: "https://arxiv.org/pdf/1801.04264.pdf"
+    page: "https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/" 
+    dataset: "https://webpages.uncc.edu/cchen62/dataset.html"
+    code: "https://github.com/WaqasSultani/AnomalyDetectionCVPR2018"
+    year: "2018"
+    selected: y
+   
+  - title: "Automatic Action Localization in Weakly Labeled Videos"
+    authors: "Waqas Sultani, and Mubarak Shah"
+    venue: "Journal of Computer Vision and Image Understanding (CVIU), 2017"
+    paper_pdf: "https://arxiv.org/pdf/1605.08125.pdf"
+    year: "2017"
+    selected: y  
+   
+   
+  - title: "Unsupervised Action Proposal Ranking through Proposal Recombination"
+    authors: "Waqas Sultani, Dong Zhang, and Mubarak Shah"
+    venue: "Journal of Computer Vision and Image Understanding (CVIU), 2017"
+    paper_pdf: "https://arxiv.org/pdf/1704.00758.pdf"
+    year: "2017"
+    selected: y
+
+  - title: "Automatic Pavement Object Detection using Superpixel Segmentation Combined with Conditional Random Field"
+    authors: Waqas Sultani, Soroush Mokhtari, and Hae-Bum Yun
+    venue: "IEEE Transaction on Intelligent Transportation Systems (ITS), 2017"
+    paper_pdf: http://ieeexplore.ieee.org/abstract/document/8025634/
+    year: "2017"
+    selected: y
+    
+    
+  - title: "What if we do not have multiple videos of the same action? - Video Action Localization Using Web Images"
+    authors: "Waqas Sultani and Mubarak Shah"
+    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2016."
+    paper_pdf: "https://www.crcv.ucf.edu/projects/videolocalization_images/CVPR16_Waqas_AL.pdf"
+    page: "https://www.crcv.ucf.edu/projects/videolocalization_images/"
+    year: "2016"
+    selected: y
+
+  - title: "Human Action Recognition across Datasets by Foreground Focused Histogram Decomposition"
+    authors: "Waqas Sultani and Imran Saleemi"
+    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2014."
+    paper_pdf: "https://www.crcv.ucf.edu/papers/cvpr2014/Sultani-Saleemi-CVPR-2014.pdf"
+    page: "https://www.crcv.ucf.edu/research/human-action-recognition-across-datasets-by-foreground-focused-histogram-decomposition/"
+    year: "2014"
+    selected: y
+
+  - title: "Abnormal Traffic Detection using Intelligent Driver Model"
+    authors: "Waqas Sultani, and  Jin Young Choi"
+    venue: "IEEE Intl. Conf. on Pattern Recognition (ICPR), 2010"
+    paper_pdf: "https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICPR-2010/data/4109a324.pdf"
+    year: "2010"
+    selected: y
