@@ -237,7 +237,7 @@ title: Personal Webpage
 </div>
 
 
-<!-- ========== PUBLICATIONS ========== -->
+<!-- ========== STUDENTS ========== -->
 <div class="docs-section" id="students">
   <h4>Students</h4>
 
@@ -251,7 +251,7 @@ title: Personal Webpage
   <div class="tab-content">
     <div class="tab-pane active" id="papers-selected">
 	<ul class="listType">
-      {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
+      {% assign selected_papers = site.data.students.papers | where: "selected", "y" %}
       {% for paper in selected_papers %}
         <div class="paper" >
         <li><span class="title"><b>{{ paper.title }}</b></span>          
