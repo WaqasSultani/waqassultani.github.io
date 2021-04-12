@@ -26,3 +26,16 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2103.17242/"
     selected: y
  
+   - title: "Destruction from sky: Weakly supervised approach for destruction detection in satellite imagery"
+    authors: "[2019] Muhammad Usman Ali"
+    year: "2019"
+    paper_pdf: "https://arxiv.org/abs/2103.17242/"
+    selected: y
+    
+   - title: "Photo Album Summerization"
+    authors: "[2019] Fawad Arshad"
+    year: "2019"
+    paper_pdf: "https://arxiv.org/abs/2103.17242/"
+    selected: y
+    
+    
