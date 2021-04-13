@@ -234,7 +234,7 @@ title: Personal Webpage
       {% assign selected_papers = site.data.students.papers | where: "selected", "y" %}
       {% for paper in selected_papers %}
         <div class="paper" >
-        <li><span class="title"><b>{{ paper.authors }}</b> {{ paper.title }}
+        <li><span><b>{{ paper.authors }}</b> {{ paper.title }}
            
 			{% if paper.paper_pdf %}
               [<a class="notbutton" href="{{ paper.paper_pdf | prepend: site.baseurl }} " target="_blank" style="text-decoration: none">Paper</a>]
