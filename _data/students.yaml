@@ -1,41 +1,47 @@
 papers:
 
  
-  - title: "Dogfight Detecting Drones from Drones Videos"
-    authors: "[2020] Muhammad Waseem Ashraf"
+  - title: "Applications of Deep Subspace Clustering in Visual Recognition"
+    authors: "[2019-2023] Hira Yaseen (Co-Supervisor)"
     year: "2020"
-    paper_pdf: "https://arxiv.org/abs/2103.17242/"
-    selected: y
+    selected: n
+ 
+ 
+ 
+  - title: "Secure and Robust Machine Learning for Healthcare"
+    authors: "[2018-2022] Adnan Qayyum (Co-Supervisor)"
+    year: "2020"
+    selected: n
  
   - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
     authors: "[2020] Nadeem Yousaf"
     year: "2020"
-    paper_pdf: "https://arxiv.org/abs/2103.17242/"
-    selected: y
+    paper_pdf: "https://arxiv.org/pdf/2104.04733.pdf/"
+    selected: n
     
   - title: "A Dataset and Benchmark for Malaria Life-Cycle Classification in Thin Blood Smear Images"
     authors: "[2020] Qazi Ammar Arshad"
     year: "2020"
-    paper_pdf: "https://arxiv.org/abs/2103.17242/"
-    selected: y
+    paper_pdf: "https://arxiv.org/pdf/2102.08708.pdf/"
+    selected: n
  
  
   - title: "Deep Learning based House Counting in Satellite Imagery"
     authors: "[2021] Hira Ahmad"
     year: "2021"
     paper_pdf: "https://arxiv.org/abs/2103.17242/"
-    selected: y
+    selected: n
  
   - title: "Destruction from sky: Weakly supervised approach for destruction detection in satellite imagery"
     authors: "[2019] Muhammad Usman Ali"
     year: "2019"
-    paper_pdf: "https://arxiv.org/abs/2103.17242/"
-    selected: y
+    paper_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0924271620300368/"
+    selected: n
     
   - title: "Photo Album Summerization"
     authors: "[2019] Fawad Arshad"
     year: "2019"
     paper_pdf: "https://arxiv.org/abs/2103.17242/"
-    selected: y
+    selected: n
     
     
