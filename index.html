@@ -294,11 +294,9 @@ title: Personal Webpage
 		<ul class="listType">
 		      {% for paper in site.data.students.papers %}
         <div class="paper" >
-        <li><span class="title"><b>{{ paper.title }}</b></span>          
-          <p class="authorList">{{ paper.authors }}</p>
-          <p class="venuName"> {{ paper.venue }} </p>
-			<font color="blue">
-			{% if paper.paper_pdf %}
+        <li><span><b>{{ paper.authors }}</b> {{ paper.title }}          
+ 
+		         {% if paper.paper_pdf %}
               [<a class="notbutton" href="{{ paper.paper_pdf | prepend: site.baseurl }} " target="_blank" style="text-decoration: none">Paper</a>]
             {% endif %}
 			{% if paper.page %}
