@@ -224,12 +224,12 @@ title: Personal Webpage
   </p>
 
   <ul class="tab-nav">
-    <li><div class="button active" data-ref="#papers-selected">Ph.D</div></li>
-    <li><div class="button" data-ref="#papers-all">MS</div></li>
+    <li><div class="button active" data-ref="#students-selected">Ph.D</div></li>
+    <li><div class="button" data-ref="#students-all">MS</div></li>
   </ul>
 
   <div class="tab-content">
-    <div class="tab-pane active" id="papers-selected">
+    <div class="tab-pane active" id="students-selected">
 	<ul class="listType">
       {% assign selected_papers = site.data.students.papers | where: "selected", "y" %}
       {% for paper in selected_papers %}
@@ -290,7 +290,7 @@ title: Personal Webpage
 	  </ul>
     </div>
 		  
-	     <div class="tab-pane" id="papers-all">
+	     <div class="tab-pane" id="students-all">
 		<ul class="listType">
 		      {% for paper in site.data.publications.papers %}
         <div class="paper" >
