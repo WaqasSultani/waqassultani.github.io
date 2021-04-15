@@ -4,14 +4,14 @@ papers:
   - title: "Applications of Deep Subspace Clustering in Visual Recognition"
     authors: "[2019-2023] Hira Yaseen (Co-Supervisor)"
     year: "2020"
-    selected: n
+    selected: y
  
  
  
   - title: "Secure and Robust Machine Learning for Healthcare"
     authors: "[2018-2022] Adnan Qayyum (Co-Supervisor)"
     year: "2020"
-    selected: n
+    selected: y
  
   - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
     authors: "[2020] Nadeem Yousaf"
