@@ -1,5 +1,14 @@
 papers:
 
+
+
+  - title: "Towards Low-Cost and Efficient Malaria Detection"
+    authors: "Waqas Sultani, Wajahat Nawaz, Syed Javed, Muhammad Sohail Danish, Asma Saadia
+, Mohsen Ali"
+    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2022"
+    year: "2022"
+    paper_pdf: "https://arxiv.org/pdf/2111.13656.pdf/"
+    selected: y
  
   - title: "Dogfight Detecting Drones from Drones Videos"
     authors: "Muhammad Waseem Ashraf, Waqas Sultani, Mubarak Shah"
