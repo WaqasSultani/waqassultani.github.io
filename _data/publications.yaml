@@ -8,9 +8,11 @@ papers:
     venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2022"
     year: "2022"
     paper_pdf: "https://arxiv.org/pdf/2111.13656.pdf/"
+    page: "http://im.itu.edu.pk/m5-malaria-dataset/" 
     selected: y
- 
-  - title: "Dogfight Detecting Drones from Drones Videos"
+    
+    
+   - title: "Dogfight Detecting Drones from Drones Videos"
     authors: "Muhammad Waseem Ashraf, Waqas Sultani, Mubarak Shah"
     venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2021"
     year: "2021"
