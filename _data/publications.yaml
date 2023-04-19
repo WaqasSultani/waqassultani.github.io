@@ -1,7 +1,4 @@
 papers:
-
-
-
   - title: "Towards Low-Cost and Efficient Malaria Detection"
     authors: "Waqas Sultani, Wajahat Nawaz, Syed Javed, Muhammad Sohail Danish, Asma Saadia
 , Mohsen Ali"
@@ -71,7 +68,6 @@ papers:
     year: "2019"
     selected: y    
     
-  
   - title: "Real world Anomaly Detection in Surveillance Videos"
     authors: "Waqas Sultani, Chen Chen, and Mubarak Shah"
     venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2018"
@@ -89,7 +85,6 @@ papers:
     year: "2017"
     selected: y  
    
-   
   - title: "Unsupervised Action Proposal Ranking through Proposal Recombination"
     authors: "Waqas Sultani, Dong Zhang, and Mubarak Shah"
     venue: "Journal of Computer Vision and Image Understanding (CVIU), 2017"
@@ -102,8 +97,7 @@ papers:
     venue: "IEEE Transaction on Intelligent Transportation Systems (ITS), 2017"
     paper_pdf: http://ieeexplore.ieee.org/abstract/document/8025634/
     year: "2017"
-    selected: y
-    
+    selected: y    
     
   - title: "What if we do not have multiple videos of the same action? - Video Action Localization Using Web Images"
     authors: "Waqas Sultani and Mubarak Shah"
