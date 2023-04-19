@@ -1,7 +1,7 @@
 papers: 
   - title: "Towards Low-Cost and Efficient Malaria Detection"
     authors: "Waqas Sultani, Wajahat Nawaz, Syed Javed, Muhammad Sohail Danish, Asma Saadia, Mohsen Ali"
-    venue: "Computer Vision and Pattern Recognition (CVPR)"
+    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2022"
     paper_pdf: "https://openaccess.thecvf.com/content/CVPR2022/papers/Sultani_Towards_Low-Cost_and_Efficient_Malaria_Detection_CVPR_2022_paper.pdf"
     page: "http://im.itu.edu.pk/m5-malaria-dataset/"
     code: "https://github.com/intelligentMachines-ITU/LowCostMalariaDetection_CVPR_2022"
@@ -9,12 +9,12 @@ papers:
     year: "2022"
     selected: y
     
-  - title: "SSAL: Synergizing between Self-Training and Adversarial Learning for Domain Adaptive Object Detection"
-    authors: "Muhammad Akhtar Munir, Muhammad Haris Khan, M Sarfraz, Mohsen Ali"
-    venue: "Advances in Neural Information Processing Systems (NeurIPS)"
-    paper_pdf: "https://proceedings.neurips.cc/paper/2021/file/c0cccc24dd23ded67404f5e511c342b0-Paper.pdf"
-    page: "https://proceedings.neurips.cc/paper/2021/hash/c0cccc24dd23ded67404f5e511c342b0-Abstract.html"
-    code: "not available"
+  - title: "Dogfight Detecting Drones from Drones Videos"
+    authors: "Muhammad Waseem Ashraf, Waqas Sultani, Mubarak Shah"
+    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2021"
+    paper_pdf: "https://arxiv.org/abs/2103.17242/"
+    page: "https://github.com/mwaseema/Drone-Detection"
+    code: "https://github.com/mwaseema/Drone-Detection"
     dataset: "not available"
     year: "2021"
     selected: y
@@ -22,9 +22,9 @@ papers:
   - title: "Leveraging Orientation for Weakly Supervised Object Detection with Application to Firearm Localization"
     authors: "Javed Iqbal, Muhammad Akhtar Munir, Arif Mahmood, Afsheed Rafaqat Ali, and Mohsen Ali"
     venue: "Neurocomputing, 2021"
-    paper_pdf: "https://arxiv.org/pdf/1904.10032"
-    page: "http://im.itu.edu.pk/orientation-aware-firearms-detection/"
-    code: "https://github.com/makhtar17004/orientation-aware-firearm-detection"
+    paper_pdf: "https://arxiv.org/abs/2103.17242/"
+    page: "https://github.com/mwaseema/Drone-Detection"
+    code: "https://github.com/mwaseema/Drone-Detection"
     dataset: "http://im.itu.edu.pk/orientation-aware-firearms-detection/"
     year: "2021"
     selected: y 
