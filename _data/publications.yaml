@@ -1,113 +1,87 @@
-papers:
+papers: 
   - title: "Towards Low-Cost and Efficient Malaria Detection"
-    authors: "Waqas Sultani, Wajahat Nawaz, Syed Javed, Muhammad Sohail Danish, Asma Saadia
-, Mohsen Ali"
-    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2022"
-    paper_pdf: "https://arxiv.org/pdf/2111.13656.pdf/"
-    page: "http://im.itu.edu.pk/m5-malaria-dataset/" 
+    authors: "Waqas Sultani, Wajahat Nawaz, Syed Javed, Muhammad Sohail Danish, Asma Saadia, Mohsen Ali"
+    venue: "Computer Vision and Pattern Recognition (CVPR)"
+    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2022/papers/Sultani_Towards_Low-Cost_and_Efficient_Malaria_Detection_CVPR_2022_paper.pdf"
+    page: "http://im.itu.edu.pk/m5-malaria-dataset/"
+    code: "https://github.com/intelligentMachines-ITU/LowCostMalariaDetection_CVPR_2022"
+    dataset: "https://github.com/intelligentMachines-ITU/LowCostMalariaDetection_CVPR_2022"
     year: "2022"
     selected: y
     
-   - title: "Dogfight Detecting Drones from Drones Videos"
-    authors: "Muhammad Waseem Ashraf, Waqas Sultani, Mubarak Shah"
-    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2021"
+  - title: "SSAL: Synergizing between Self-Training and Adversarial Learning for Domain Adaptive Object Detection"
+    authors: "Muhammad Akhtar Munir, Muhammad Haris Khan, M Sarfraz, Mohsen Ali"
+    venue: "Advances in Neural Information Processing Systems (NeurIPS)"
+    paper_pdf: "https://proceedings.neurips.cc/paper/2021/file/c0cccc24dd23ded67404f5e511c342b0-Paper.pdf"
+    page: "https://proceedings.neurips.cc/paper/2021/hash/c0cccc24dd23ded67404f5e511c342b0-Abstract.html"
+    code: "not available"
+    dataset: "not available"
     year: "2021"
-    paper_pdf: "https://arxiv.org/abs/2103.17242/"
-    page: "https://github.com/mwaseema/Drone-Detection" 
     selected: y
 
-
-
-  - title: "Human Action Recognition in Drone Videos using a Few Aerial Training Examples"
-    authors: "Waqas Sultani, and Mubarak Shah"
-    venue: "Journal of Computer Vision and Image Understanding (CVIU), 2021"
-    paper_pdf: "https://arxiv.org/pdf/1910.10027.pdf"
-    page: "http://im.itu.edu.pk/human-action-recognition-in-drone-videos-using-a-few-aerial-training-examples/" 
+  - title: "Leveraging Orientation for Weakly Supervised Object Detection with Application to Firearm Localization"
+    authors: "Javed Iqbal, Muhammad Akhtar Munir, Arif Mahmood, Afsheed Rafaqat Ali, and Mohsen Ali"
+    venue: "Neurocomputing, 2021"
+    paper_pdf: "https://arxiv.org/pdf/1904.10032"
+    page: "http://im.itu.edu.pk/orientation-aware-firearms-detection/"
+    code: "https://github.com/makhtar17004/orientation-aware-firearm-detection"
+    dataset: "http://im.itu.edu.pk/orientation-aware-firearms-detection/"
     year: "2021"
     selected: y 
-    
-    
-  - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
-    authors: "Nadeem Yousaf, Sarfaraz Hussein, and Waqas Sultani"
-    venue: "Journal of Computer in Biology and Medicine (CBM), 2021"
-    paper_pdf: "https://arxiv.org/pdf/1910.10027.pdf"
-    year: "2021"
-    selected: n 
-    
-  - title: "Single-Shot Retinal Image Enhancement Using Deep Image Priors"
-    authors: "Adnan Qayyum, Waqas Sultani, Fahad Shamshad, Junaid Qadir, and Rashid Tufail"
-    venue: "Medical Image Computing and Computer Assisted Intervention (MICCAI) 2020"
-    paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-030-59722-1_61"
+
+  - title: “Optimal school site selection in Urban areas using deep neural networks"
+    authors: “Nimra Zaheer, Saeed-Ul Hassan, Mohsen Ali, Mudassir Shabbir”
+    venue: “Journal of Ambient Intelligence and Humanized Computing, 2021”
+    year: 2021
+    paper_pdf: “https://link.springer.com/article/10.1007%2Fs12652-021-02903-9”
+    selected: n
+
+  - title: "Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation"
+    authors: "N. Subhani, Mohsen Ali"
+    venue: "European Conference on Computer Vision, 2020."
+    paper_pdf: "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670290.pdf"
     year: "2020"
-    selected: y     
-    
-    
-  - title: "Destruction from Sky: Weakly Supervised Approach for Destruction Detection in Satellite Imagery"
-    authors: "Muhammad Usman Ali, Waqas Sultani, Mohsen Ali"
-    venue: "ISPRS Journal of Photogrammetry and Remote Sensing (JPRS) 2020"
-    paper_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0924271620300368"
+    selected: y
+  
+  - title: "Weakly-supervised domain adaptation for built-up region segmentation in aerial and satellite imagery"
+    authors: "Javed Iqbal, Mohsen Ali"
+    venue: "ISPRS Journal of Photogrammetry and Remote Sensing, 2020."
+    paper_pdf: "https://arxiv.org/pdf/2007.02277.pdf"
+    page: "http://im.itu.edu.pk/wan/" 
+    dataset: "https://drive.google.com/file/d/1cYdc2-WWuHwv3tMvjpxRVpBRh5pZQbza/view?usp=sharing"
+    code: "https://github.com/engrjavediqbal/wan"
     year: "2020"
-    selected: y   
-    
- 
-  - title: "Deep Built-Structure Counting in Satellite Imagery using Attention Based Re-Weighting"
-    authors: "Anza Shakeel, Waqas Sultani and Mohsen Ali,"
-    venue: "ISPRS Journal of Photogrammetry and Remote Sensing (JPRS) 2019"
-    paper_pdf: "https://arxiv.org/pdf/1904.00674.pdf"
-    page: "http://im.itu.edu.pk/deepcount/" 
-    year: "2019"
-    selected: y    
-    
-  - title: "Real world Anomaly Detection in Surveillance Videos"
-    authors: "Waqas Sultani, Chen Chen, and Mubarak Shah"
-    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2018"
-    paper_pdf: "https://arxiv.org/pdf/1801.04264.pdf"
-    page: "https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/" 
-    dataset: "https://webpages.uncc.edu/cchen62/dataset.html"
-    code: "https://github.com/WaqasSultani/AnomalyDetectionCVPR2018"
-    year: "2018"
     selected: y
    
-  - title: "Automatic Action Localization in Weakly Labeled Videos"
-    authors: "Waqas Sultani, and Mubarak Shah"
-    venue: "Journal of Computer Vision and Image Understanding (CVIU), 2017"
-    paper_pdf: "https://arxiv.org/pdf/1605.08125.pdf"
-    year: "2017"
-    selected: y  
-   
-  - title: "Unsupervised Action Proposal Ranking through Proposal Recombination"
-    authors: "Waqas Sultani, Dong Zhang, and Mubarak Shah"
-    venue: "Journal of Computer Vision and Image Understanding (CVIU), 2017"
-    paper_pdf: "https://arxiv.org/pdf/1704.00758.pdf"
+  - title: "MLSL: Multi-Level Self-Supervised Learning for Domain Adaptation with Spatially Independent and Semantically Consistent Labeling"
+    authors: "Javed Iqbal, Mohsen Ali"
+    venue: "The IEEE Winter Conference on Applications of Computer Vision, 2020."
+    paper_pdf: "https://openaccess.thecvf.com/content_WACV_2020/papers/Iqbal_MLSL_Multi-Level_Self-Supervised_Learning_for_Domain_Adaptation_with_Spatially_Independent_WACV_2020_paper.pdf"
+    page: "http://im.itu.edu.pk/uda-ss/" 
+    code: "https://github.com/engrjavediqbal/MLSL"
+    year: "2020"
+    selected: y
+
+  - title: "Localizing Firearm Carriers By Identifying Human-Object Pairs"
+    authors: Abdul Basit, Muhammad Akhtar Munir, Mohsen Ali, Naoufel Werghi, Arif Mahmood
+    venue: "IEEE International Conference on Image Processing."
+    paper_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9190886
+    page: "http://im.itu.edu.pk/localizing-firearm-carriers/"
+    year: "2020"
+    selected: n
+
+  - title: "High-Level Concepts for Affective Understanding of Images"
+    authors: "Afsheed Rafaqat Ali, Usman Shahid, Mohsen Ali and Jeffrey Ho"
+    venue: "The IEEE Winter Conference on Applications of Computer Vision (WACV),  2017."
+    paper_pdf: "https://ieeexplore.ieee.org/abstract/document/7926664"
+    page: "http://im.itu.edu.pk/high-level-concepts-for-affective-understanding-of-images/"
     year: "2017"
     selected: y
 
-  - title: "Automatic Pavement Object Detection using Superpixel Segmentation Combined with Conditional Random Field"
-    authors: Waqas Sultani, Soroush Mokhtari, and Hae-Bum Yun
-    venue: "IEEE Transaction on Intelligent Transportation Systems (ITS), 2017"
-    paper_pdf: http://ieeexplore.ieee.org/abstract/document/8025634/
+  - title: "Automatic Image Transformation for Inducing Affect"
+    authors: "Afsheed Rafaqat Ali and Mohsen Ali"
+    venue: "BMVC 2017."
+    paper_pdf: "https://www.researchgate.net/profile/Mohsen_Ali4/publication/332813634_Automatic_Image_transformation_for_inducing_affect"
+    page: "http://im.itu.edu.pk/affective-image-transfer//"
     year: "2017"
-    selected: y    
-    
-  - title: "What if we do not have multiple videos of the same action? - Video Action Localization Using Web Images"
-    authors: "Waqas Sultani and Mubarak Shah"
-    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2016."
-    paper_pdf: "https://www.crcv.ucf.edu/projects/videolocalization_images/CVPR16_Waqas_AL.pdf"
-    page: "https://www.crcv.ucf.edu/projects/videolocalization_images/"
-    year: "2016"
-    selected: y
-
-  - title: "Human Action Recognition across Datasets by Foreground Focused Histogram Decomposition"
-    authors: "Waqas Sultani and Imran Saleemi"
-    venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2014."
-    paper_pdf: "https://www.crcv.ucf.edu/papers/cvpr2014/Sultani-Saleemi-CVPR-2014.pdf"
-    page: "https://www.crcv.ucf.edu/research/human-action-recognition-across-datasets-by-foreground-focused-histogram-decomposition/"
-    year: "2014"
-    selected: y
-
-  - title: "Abnormal Traffic Detection using Intelligent Driver Model"
-    authors: "Waqas Sultani, and  Jin Young Choi"
-    venue: "IEEE Intl. Conf. on Pattern Recognition (ICPR), 2010"
-    paper_pdf: "https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICPR-2010/data/4109a324.pdf"
-    year: "2010"
     selected: y
