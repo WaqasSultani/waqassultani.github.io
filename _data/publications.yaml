@@ -39,48 +39,7 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2103.17242/"
     page: "https://github.com/mwaseema/Drone-Detection"
     code: "https://github.com/mwaseema/Drone-Detection"
-    dataset: "not available"
     year: "2021"
-    selected: y
-
-  - title: "Single-Shot Retinal Image Enhancement Using Deep Image Priors"
-    authors: "Javed Iqbal, Muhammad Akhtar Munir, Arif Mahmood, Afsheed Rafaqat Ali, and Mohsen Ali"
-    venue: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020"
-    paper_pdf: "https://arxiv.org/abs/2103.17242/"
-    year: "2022"
-    selected: y 
-
-  - title: “Optimal school site selection in Urban areas using deep neural networks"
-    authors: “Nimra Zaheer, Saeed-Ul Hassan, Mohsen Ali, Mudassir Shabbir”
-    venue: “Journal of Ambient Intelligence and Humanized Computing, 2021”
-    year: 2021
-    paper_pdf: “https://link.springer.com/article/10.1007%2Fs12652-021-02903-9”
-    selected: n
-
-  - title: "Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation"
-    authors: "N. Subhani, Mohsen Ali"
-    venue: "European Conference on Computer Vision, 2020."
-    paper_pdf: "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670290.pdf"
-    year: "2020"
-    selected: y
-  
-  - title: "Weakly-supervised domain adaptation for built-up region segmentation in aerial and satellite imagery"
-    authors: "Javed Iqbal, Mohsen Ali"
-    venue: "ISPRS Journal of Photogrammetry and Remote Sensing, 2020."
-    paper_pdf: "https://arxiv.org/pdf/2007.02277.pdf"
-    page: "http://im.itu.edu.pk/wan/" 
-    dataset: "https://drive.google.com/file/d/1cYdc2-WWuHwv3tMvjpxRVpBRh5pZQbza/view?usp=sharing"
-    code: "https://github.com/engrjavediqbal/wan"
-    year: "2020"
-    selected: y
-   
-  - title: "MLSL: Multi-Level Self-Supervised Learning for Domain Adaptation with Spatially Independent and Semantically Consistent Labeling"
-    authors: "Javed Iqbal, Mohsen Ali"
-    venue: "The IEEE Winter Conference on Applications of Computer Vision, 2020."
-    paper_pdf: "https://openaccess.thecvf.com/content_WACV_2020/papers/Iqbal_MLSL_Multi-Level_Self-Supervised_Learning_for_Domain_Adaptation_with_Spatially_Independent_WACV_2020_paper.pdf"
-    page: "http://im.itu.edu.pk/uda-ss/" 
-    code: "https://github.com/engrjavediqbal/MLSL"
-    year: "2020"
     selected: y
 
   - title: "Localizing Firearm Carriers By Identifying Human-Object Pairs"
