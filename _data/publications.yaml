@@ -41,3 +41,10 @@ papers:
     code: "https://github.com/mwaseema/Drone-Detection"
     year: "2021"
     selected: y
+    
+  - title: "Single-Shot Retinal Image Enhancement Using Deep Image Priors"
+    authors: "Adnan Qayyum, Waqas Sultani, Fahad Shamshad, Junaid Qadir, and Rashid Tufail"
+    venue: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020"
+    paper_pdf: "https://arxiv.org/abs/2103.17242/"
+    year: "2020"
+    selected: y
