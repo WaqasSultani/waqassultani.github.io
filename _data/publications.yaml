@@ -5,8 +5,24 @@ papers:
     paper_pdf: "https://arxiv.org/pdf/2210.08423.pdf"
     code: "https://github.com/tusharsangam/TransVisDrone"
     year: "2023"
-    selected: y      
+    selected: y 
+   
+  - title: "Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence"
+    authors: "Xiaohan Zhang, Xingyu Li,  Waqas Sultani, Yi Zhou, Safwan Wshah "
+    venue: "The Association for the Advancement of Artificial Intelligence (AAAI), 2023"
+    paper_pdf: "https://arxiv.org/pdf/2212.04074.pdf"
+    code: "https://gitlab.com/vail-uvm/geodtr"
+    year: "2023"
+    selected: y 
     
+   - title: "Cross-View Image Sequence Geo-localization"
+    authors: "Xiaohan Zhang, Xingyu Li,  Waqas Sultani, Yi Zhou, Safwan Wshah "
+    venue: "IEEE  Winter Conference on Computer Vision (WACV), 2023"
+    paper_pdf: "https://arxiv.org/pdf/2210.14295.pdf"
+    code: "https://gitlab.com/vail-uvm/seqgeo"
+    year: "2023"
+    selected: y   
+  
   - title: "Towards Low-Cost and Efficient Malaria Detection"
     authors: "Waqas Sultani, Wajahat Nawaz, Syed Javed, Muhammad Sohail Danish, Asma Saadia, Mohsen Ali"
     venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2022"
