@@ -42,26 +42,3 @@ papers:
     year: "2021"
     selected: y
 
-  - title: "Localizing Firearm Carriers By Identifying Human-Object Pairs"
-    authors: Abdul Basit, Muhammad Akhtar Munir, Mohsen Ali, Naoufel Werghi, Arif Mahmood
-    venue: "IEEE International Conference on Image Processing."
-    paper_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9190886
-    page: "http://im.itu.edu.pk/localizing-firearm-carriers/"
-    year: "2020"
-    selected: n
-
-  - title: "High-Level Concepts for Affective Understanding of Images"
-    authors: "Afsheed Rafaqat Ali, Usman Shahid, Mohsen Ali and Jeffrey Ho"
-    venue: "The IEEE Winter Conference on Applications of Computer Vision (WACV),  2017."
-    paper_pdf: "https://ieeexplore.ieee.org/abstract/document/7926664"
-    page: "http://im.itu.edu.pk/high-level-concepts-for-affective-understanding-of-images/"
-    year: "2017"
-    selected: y
-
-  - title: "Automatic Image Transformation for Inducing Affect"
-    authors: "Afsheed Rafaqat Ali and Mohsen Ali"
-    venue: "BMVC 2017."
-    paper_pdf: "https://www.researchgate.net/profile/Mohsen_Ali4/publication/332813634_Automatic_Image_transformation_for_inducing_affect"
-    page: "http://im.itu.edu.pk/affective-image-transfer//"
-    year: "2017"
-    selected: y
