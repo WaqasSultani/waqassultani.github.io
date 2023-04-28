@@ -1,4 +1,12 @@
 papers: 
+  - title: "Transvisdrone: Spatio-temporal transformer for vision-based drone-to-drone detection in aerial videos"
+    authors: "Tushar Sangam, Ishan Rajendrakumar Dave, Waqas Sultani, Mubarak Shah "
+    venue: "IEEE International Conference on Robotics and Automation, 2023"
+    paper_pdf: "https://arxiv.org/pdf/2210.08423.pdf"
+    code: "https://github.com/tusharsangam/TransVisDrone"
+    year: "2023"
+    selected: y
+    
   - title: "Towards Low-Cost and Efficient Malaria Detection"
     authors: "Waqas Sultani, Wajahat Nawaz, Syed Javed, Muhammad Sohail Danish, Asma Saadia, Mohsen Ali"
     venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2022"
