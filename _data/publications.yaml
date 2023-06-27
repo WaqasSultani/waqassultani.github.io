@@ -21,7 +21,16 @@ papers:
     paper_pdf: "https://arxiv.org/pdf/2210.14295.pdf"
     code: "https://gitlab.com/vail-uvm/seqgeo"
     year: "2023"
-    selected: y   
+    selected: y  
+
+  - title: "Mapping Temporary Slums From Satellite Imagery
+Using a Semi-Supervised Approach"
+    authors: "M. Fasi Ur Rehman, Izza Aftab, Waqas Sultani , and Mohsen Ali "
+    venue: "IEEE GEOSCIENCE AND REMOTE SENSING LETTERS, 2022"
+    paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9787411"
+    year: "2023"
+    selected: y 
+    
   
   - title: "Towards Low-Cost and Efficient Malaria Detection"
     authors: "Waqas Sultani, Wajahat Nawaz, Syed Javed, Muhammad Sohail Danish, Asma Saadia, Mohsen Ali"
