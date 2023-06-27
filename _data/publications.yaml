@@ -30,7 +30,6 @@ Using a Semi-Supervised Approach"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9787411"
     year: "2023"
     selected: y 
-    
   
   - title: "Towards Low-Cost and Efficient Malaria Detection"
     authors: "Waqas Sultani, Wajahat Nawaz, Syed Javed, Muhammad Sohail Danish, Asma Saadia, Mohsen Ali"
@@ -50,7 +49,7 @@ Using a Semi-Supervised Approach"
     code: "https://github.com/mwaseema/Drone-Detection"
     year: "2021"
     selected: y
-
+    
    - title: "Human Action Recognition in Drone Videos Using a Few Aerial Training Examples"
     authors: "Waqas Sultani, Mubarak Shah"
     venue: "Computer Vision and Image Understanding, 2021"
