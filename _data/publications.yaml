@@ -50,6 +50,15 @@ Using a Semi-Supervised Approach"
     code: "https://github.com/mwaseema/Drone-Detection"
     year: "2021"
     selected: y
+
+   - title: "Human Action Recognition in Drone Videos Using a Few Aerial Training Examples"
+    authors: "Waqas Sultani, Mubarak Shah"
+    venue: "Computer Vision and Image Understanding, 2021"
+    paper_pdf: "https://arxiv.org/pdf/1910.10027.pdf"
+    page: "https://im.itu.edu.pk/human-action-recognition-in-drone-videos-using-a-few-aerial-training-examples/"
+    dataset: "https://im.itu.edu.pk/human-action-recognition-in-drone-videos-using-a-few-aerial-training-examples/"
+    year: "2021"
+    selected: y   
     
   - title: "Single-Shot Retinal Image Enhancement Using Deep Image Priors"
     authors: "Adnan Qayyum, Waqas Sultani, Fahad Shamshad, Junaid Qadir, and Rashid Tufail"
