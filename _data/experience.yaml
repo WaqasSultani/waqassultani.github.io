@@ -1,9 +1,4 @@
 experiences:
-- place: "Information Technology University"
-  time: "2018 - now"
-  title: "Assistant Professor"
-  subtitle: "Intelligent Machines Lab"
-  category: "work"
 - place: "Google Research Scholar Award"
   time: "2023"
   title: "Towards Low-Cost Cancer Detection"
@@ -19,7 +14,11 @@ experiences:
   title: "Towards Low-Cost Malaria Detection"
   subtitle: "Facebook Award Winner"
   category: "school"
-  
+- place: "Information Technology University"
+  time: "2018 - now"
+  title: "Assistant Professor"
+  subtitle: "Intelligent Machines Lab"
+  category: "work"  
 - place: "University of Central Florida, USA"
   time: "2011-2017"
   title: "Ph.D. student"
