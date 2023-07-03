@@ -9,9 +9,15 @@ experiences:
   title: "Principle Machine Learning Engineer"
   subtitle: "Hazen.ai"
   category: "work"
+- place: "Facebook CV4GC Award"
+  time: "2019"
+  title: "Towards Low-Cost Malaria Detection"
+  subtitle: "Facebook CV4GC Award"
+  category: "work"
+  
 - place: "University of Central Florida, USA"
   time: "2011-2017"
-  title: "PhD. student"
+  title: "Ph.D student"
   subtitle: "Center for Research in Computer Vision <br/> Advisor: Dr. Mubarak Shah <br/>"
   category: "school"
 
