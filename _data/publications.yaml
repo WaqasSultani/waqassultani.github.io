@@ -6,7 +6,7 @@ papers:
     code: "https://github.com/tusharsangam/TransVisDrone"
     year: "2023"
     selected: y 
-    
+
   - title: "Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence"
     authors: "Xiaohan Zhang, Xingyu Li,  Waqas Sultani, Yi Zhou, Safwan Wshah "
     venue: "The Association for the Advancement of Artificial Intelligence (AAAI), 2023"
@@ -23,6 +23,13 @@ papers:
     year: "2023"
     selected: y  
 
+ - title: "Fine-Grained Road Quality Monitoring Using Deep Learning"
+    authors: "Ifrah Siddiqui, Suleman Mazhar, Naufil Hassan, Waqas Sultani"
+    venue: "IEEE Transactions on Intelligent Transportation Systems (IEEE ITS), 2023"
+    paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10167761"
+    year: "2023"
+    selected: y 
+    
   - title: "Mapping Temporary Slums From Satellite Imagery
 Using a Semi-Supervised Approach"
     authors: "M. Fasi Ur Rehman, Izza Aftab, Waqas Sultani , and Mohsen Ali "
