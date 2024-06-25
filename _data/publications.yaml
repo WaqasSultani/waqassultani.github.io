@@ -45,7 +45,7 @@ Using a Semi-Supervised Approach"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9787411"
     year: "2023"
     selected: y 
-  
+    
   - title: "Towards Low-Cost and Efficient Malaria Detection"
     authors: "Waqas Sultani, Wajahat Nawaz, Syed Javed, Muhammad Sohail Danish, Asma Saadia, Mohsen Ali"
     venue: "IEEE Intl. Conf. on Computer Vision and Pattern Recognition (CVPR), 2022"
