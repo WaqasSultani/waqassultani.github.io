@@ -36,14 +36,7 @@ papers:
     venue: "IEEE Transactions on Intelligent Transportation Systems (IEEE ITS), 2023"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10167761"
     year: "2023"
-    selected: y 
-  
-  - title: "Leveraging topology for domain adaptive road segmentation in satellite and aerial imagery"
-    authors: "Javed Iqbal, Aliza Masood, Waqas Sultani, Mohsen Ali "
-    venue: "ISPRS Journal of Photogrammetry and Remote Sensing, 2023"
-    paper_pdf: "https://arxiv.org/pdf/2309.15625"
-    year: "2023"
-    selected: y    
+    selected: y   
     
   - title: "Mapping Temporary Slums From Satellite Imagery
 Using a Semi-Supervised Approach"
