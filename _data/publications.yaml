@@ -38,8 +38,7 @@ papers:
     year: "2023"
     selected: y   
     
-  - title: "Mapping Temporary Slums From Satellite Imagery
-Using a Semi-Supervised Approach"
+  - title: "Mapping Temporary Slums From Satellite Imagery Using a Semi-Supervised Approach"
     authors: "M. Fasi Ur Rehman, Izza Aftab, Waqas Sultani , and Mohsen Ali "
     venue: "IEEE Geoscience and Remote Sensing Letters, 2022"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9787411"
