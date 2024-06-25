@@ -1,4 +1,11 @@
 papers: 
+  - title: "Image and object Geo-localization"
+    authors: "Daniel Wilson, Xiaohan Zhang, Waqas Sultani, Safwan Wshah "
+    venue: "International Journal of Computer Vision, 2023"
+    paper_pdf: "https://arxiv.org/pdf/2112.15202"
+    year: "2023"
+    selected: y 
+    
   - title: "Transvisdrone: Spatio-temporal transformer for vision-based drone-to-drone detection in aerial videos"
     authors: "Tushar Sangam, Ishan Rajendrakumar Dave, Waqas Sultani, Mubarak Shah "
     venue: "IEEE International Conference on Robotics and Automation (ICRA), 2023"
@@ -12,7 +19,7 @@ papers:
     venue: "The Association for the Advancement of Artificial Intelligence (AAAI), 2023"
     paper_pdf: "https://arxiv.org/pdf/2212.04074.pdf"
     code: "https://gitlab.com/vail-uvm/geodtr"
-    year: "2022"
+    year: "2023"
     selected: y  
     
   - title: "Cross-View Image Sequence Geo-localization"
