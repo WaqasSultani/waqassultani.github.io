@@ -1,7 +1,7 @@
 papers:
   - title: "A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability"
     authors: "Abdul Rehman, Talha Meraj, Aiman Mahmood Minhas, Ayisha Imran, Mohsen Ali, Waqas Sultani"
-    venue: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)"
+    venue: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024"
     paper_pdf: "https://arxiv.org/pdf/2405.10803"
     code: "https://arxiv.org/pdf/2405.10803"
     year: "2024"
@@ -9,7 +9,7 @@ papers:
     
   - title: "Few-Shot Domain Adaptive Object Detection for Microscopic Images"
     authors: "Sumayya Inayat, Nimra Dilawar, Waqas Sultani, Mohsen Ali"
-    venue: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)"
+    venue: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024"
     paper_pdf: "https://arxiv.org/pdf/2407.07633"
     code: "https://arxiv.org/pdf/2407.07633"
     year: "2024"
