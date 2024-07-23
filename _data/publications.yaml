@@ -1,4 +1,13 @@
 papers:
+
+  - title: "Few-Shot Domain Adaptive Object Detection for Microscopic Images"
+    authors: "Sumayya Inayat, Nimra Dilawar, Waqas Sultani, Mohsen Ali"
+    venue: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)"
+    paper_pdf: "https://arxiv.org/pdf/2407.07633"
+    code: "https://arxiv.org/pdf/2407.07633"
+    year: "2024"
+    selected: y
+    
   - title: "Image and object Geo-localization"
     authors: "Daniel Wilson, Xiaohan Zhang, Waqas Sultani, Safwan Wshah"
     venue: "International Journal of Computer Vision, 2023"
