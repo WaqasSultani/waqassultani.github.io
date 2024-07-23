@@ -1,50 +1,49 @@
 papers:
-
   - title: "Image and object Geo-localization"
-    authors: "Daniel Wilson, Xiaohan Zhang, Waqas Sultani, Safwan Wshah "
+    authors: "Daniel Wilson, Xiaohan Zhang, Waqas Sultani, Safwan Wshah"
     venue: "International Journal of Computer Vision, 2023"
     paper_pdf: "https://arxiv.org/pdf/2112.15202"
     code: "https://arxiv.org/pdf/2309.15625"
     year: "2023"
-    selected: y 
+    selected: y
     
- - title: "Transvisdrone: Spatio-temporal transformer for vision-based drone-to-drone detection in aerial videos"
-    authors: "Tushar Sangam, Ishan Rajendrakumar Dave, Waqas Sultani, Mubarak Shah "
+  - title: "Transvisdrone: Spatio-temporal transformer for vision-based drone-to-drone detection in aerial videos"
+    authors: "Tushar Sangam, Ishan Rajendrakumar Dave, Waqas Sultani, Mubarak Shah"
     venue: "IEEE International Conference on Robotics and Automation (ICRA), 2023"
     paper_pdf: "https://arxiv.org/pdf/2210.08423.pdf"
     code: "https://github.com/tusharsangam/TransVisDrone"
     year: "2023"
-    selected: y 
+    selected: y
     
   - title: "Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence"
-    authors: "Xiaohan Zhang, Xingyu Li,  Waqas Sultani, Yi Zhou, Safwan Wshah "
+    authors: "Xiaohan Zhang, Xingyu Li, Waqas Sultani, Yi Zhou, Safwan Wshah"
     venue: "The Association for the Advancement of Artificial Intelligence (AAAI), 2023"
     paper_pdf: "https://arxiv.org/pdf/2212.04074.pdf"
     code: "https://gitlab.com/vail-uvm/geodtr"
     year: "2023"
-    selected: y  
+    selected: y
     
   - title: "Cross-View Image Sequence Geo-localization"
-    authors: "Xiaohan Zhang, Xingyu Li,  Waqas Sultani, Yi Zhou, Safwan Wshah "
-    venue: "IEEE  Winter Conference on Computer Vision (WACV), 2023"
+    authors: "Xiaohan Zhang, Xingyu Li, Waqas Sultani, Yi Zhou, Safwan Wshah"
+    venue: "IEEE Winter Conference on Computer Vision (WACV), 2023"
     paper_pdf: "https://arxiv.org/pdf/2210.14295.pdf"
     code: "https://gitlab.com/vail-uvm/seqgeo"
     year: "2023"
-    selected: y  
+    selected: y
     
   - title: "Fine-Grained Road Quality Monitoring Using Deep Learning"
     authors: "Ifrah Siddiqui, Suleman Mazhar, Naufil Hassan, Waqas Sultani"
     venue: "IEEE Transactions on Intelligent Transportation Systems (IEEE ITS), 2023"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10167761"
     year: "2023"
-    selected: y   
+    selected: y
     
   - title: "Mapping Temporary Slums From Satellite Imagery Using a Semi-Supervised Approach"
-    authors: "M. Fasi Ur Rehman, Izza Aftab, Waqas Sultani , and Mohsen Ali "
+    authors: "M. Fasi Ur Rehman, Izza Aftab, Waqas Sultani, Mohsen Ali"
     venue: "IEEE Geoscience and Remote Sensing Letters, 2022"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9787411"
     year: "2023"
-    selected: y 
+    selected: y
     
   - title: "Towards Low-Cost and Efficient Malaria Detection"
     authors: "Waqas Sultani, Wajahat Nawaz, Syed Javed, Muhammad Sohail Danish, Asma Saadia, Mohsen Ali"
@@ -63,8 +62,8 @@ papers:
     page: "https://github.com/mwaseema/Drone-Detection"
     code: "https://github.com/mwaseema/Drone-Detection"
     year: "2021"
-    selected: y 
-
+    selected: y
+    
   - title: "Human Action Recognition in Drone Videos Using a Few Aerial Training Examples"
     authors: "Waqas Sultani, Mubarak Shah"
     venue: "Computer Vision and Image Understanding (CVIU), 2021"
@@ -72,10 +71,10 @@ papers:
     page: "https://im.itu.edu.pk/human-action-recognition-in-drone-videos-using-a-few-aerial-training-examples/"
     dataset: "https://im.itu.edu.pk/human-action-recognition-in-drone-videos-using-a-few-aerial-training-examples/"
     year: "2021"
-    selected: y  
+    selected: y
     
   - title: "Single-Shot Retinal Image Enhancement Using Deep Image Priors"
-    authors: "Adnan Qayyum, Waqas Sultani, Fahad Shamshad, Junaid Qadir, and Rashid Tufail"
+    authors: "Adnan Qayyum, Waqas Sultani, Fahad Shamshad, Junaid Qadir, Rashid Tufail"
     venue: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020"
     paper_pdf: "https://arxiv.org/abs/2103.17242/"
     year: "2020"
