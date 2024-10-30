@@ -1,17 +1,17 @@
 papers:
-  - title: "A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability"
-    authors: "Abdul Rehman, Talha Meraj, Aiman Mahmood Minhas, Ayisha Imran, Mohsen Ali, Waqas Sultani"
-    venue: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024"
-    paper_pdf: "https://arxiv.org/pdf/2405.10803"
-    code: "https://arxiv.org/pdf/2405.10803"
+  - title: "GeoDTR+: Toward generic cross-view geolocalization via geometric disentanglement"
+    authors: "Xiaohan Zhang, Xingyu Li, Waqas Sultani, Chen Chen, Safwan Wshah"
+    venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2024"
+    paper_pdf: "https://arxiv.org/pdf/2308.09624"
+    code: "https://arxiv.org/pdf/2308.09624"
     year: "2024"
     selected: y
   
-  - title: "A Large-scale Multi Domain Leukemia Dataset for the White Blood Cells Detection with Morphological Attributes for Explainability"
-    authors: "Abdul Rehman, Talha Meraj, Aiman Mahmood Minhas, Ayisha Imran, Mohsen Ali, Waqas Sultani"
-    venue: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024"
-    paper_pdf: "https://arxiv.org/pdf/2405.10803"
-    code: "https://arxiv.org/pdf/2405.10803"
+  - title: "Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance"
+    authors: "Ahmad Arrabi, Xiaohan Zhang, Waqas Sultan, Chen Chen, Safwan Wshah"
+    venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024"
+    paper_pdf: "https://arxiv.org/pdf/2408.04224"
+    code: "https://arxiv.org/pdf/2408.04224"
     year: "2024"
     selected: y
  
