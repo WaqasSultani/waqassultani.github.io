@@ -7,7 +7,7 @@ papers:
     year: "2024"
     selected: y
 
-   - title: "RS100K: Road-Region Segmentation Dataset for Semi-supervised Autonomous Driving in the Wild"
+  - title: "RS100K: Road-Region Segmentation Dataset for Semi-supervised Autonomous Driving in the Wild"
     authors: "Muhammad Atif Butt, Hassan Ali, Adnan Qayyum, Waqas Sultani, Ala Al-Fuqaha, Junaid Qadir"
     venue: "International Journal of Computer Vision (IJCV), 2024"
     paper_pdf: "https://lnkd.in/dhbSYzvR"
